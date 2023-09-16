@@ -1,0 +1,1 @@
+# Dada uma sequência de números seguida pelo número zero, qual a soma dos números?

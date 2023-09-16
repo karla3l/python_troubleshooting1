@@ -1,0 +1,1 @@
+# Dado um natural, ele é primo?

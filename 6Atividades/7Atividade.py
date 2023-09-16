@@ -1,0 +1,1 @@
+# Dada uma sequência de números que termina quando sua soma ultrapassar 1000, qual o maior número?

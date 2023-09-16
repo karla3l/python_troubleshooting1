@@ -1,0 +1,1 @@
+# Dado um natural n, qual a soma dos pares entre 1 e n?
