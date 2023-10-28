@@ -7,9 +7,9 @@ while i < 5:
 print("= ", soma)
 #______________________________
 
-""" soma = 0
+soma = 0
 for i in range(1, 5):
     print("+", i, end=" ")
     soma += i
  
-print("= ", soma) """
+print("= ", soma)
